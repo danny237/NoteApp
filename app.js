@@ -112,23 +112,6 @@ searchText.addEventListener('input', function () {
     })
 })
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+const load=()=>{
+    showNotes();
+}
